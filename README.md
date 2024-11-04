@@ -1,4 +1,4 @@
-a bot is a simple mock banking application bot. Upon typing `/start`, the user should get a prompt with three inline buttons:
+a simple bot mock banking application bot. Upon typing `/start`, the user should get a prompt with three inline buttons:
 
 - Check Balance
 - Deposit
